@@ -128,12 +128,9 @@ i {
   font-size: 12px;
   text-align: center;
   color: #ffffff;
-  background-color: #4470c4;
-}
-
-.skills-level-ok {
   background-color: orange;
 }
+
 
 .skills-level-top {
   background-color: limegreen; 
