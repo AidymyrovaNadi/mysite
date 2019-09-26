@@ -58,7 +58,10 @@ time {
 
 a[href] {
   color: #0099ef;
-  text-decoration: underline;
+  text-decoration: none;
+}
+a:hover {
+  text-shadow: 0 0 3px grey;
 }
 
 del {
@@ -129,7 +132,11 @@ i {
 }
 
 .skills-level-ok {
-  background-color: #47bb52;
+  background-color: orange;
+}
+
+.skills-level-top {
+  background-color: limegreen; 
 }
 
 .days {
